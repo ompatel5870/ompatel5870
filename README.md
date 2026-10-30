@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**ompatel5870/ompatel5870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Om Patel**, a BSc IT student at **Parul University, Gujarat, India** 🇮🇳
 
-Here are some ideas to get you started:
+I'm interested in technology, software development, and exploring new ideas. I enjoy learning new things, building projects, and turning ideas into something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with different programming languages and technologies, exploring both frontend and backend development.
+
+---
+
+## Tools & Tech
+
+- 💻 C++, Java, Python, PHP
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Web Development & Software Development
+- 🛠️ MySQL, Git, GitHub
+- 🚀 Exploring new technologies and tools
+
+---
+
+## A Bit About Me
+
+- 🎓 BSc IT Student at Parul University
+- 🌍 Based in Gujarat, India
+- 💡 Interested in technology and innovation
+- 🧩 Enjoy building creative and practical projects
+- 📚 Always learning something new
+- 🎯 Focused on growing my skills and knowledge
+
+---
+
+**Code. Learn. Create. Repeat.** ✨
