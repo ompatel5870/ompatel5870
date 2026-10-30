@@ -6,8 +6,6 @@ I'm interested in technology, software development, and exploring new ideas. I e
 
 I work with different programming languages and technologies, exploring both frontend and backend development.
 
----
-
 ## Tools & Tech
 
 - 💻 C++, Java, Python, PHP
@@ -15,8 +13,6 @@ I work with different programming languages and technologies, exploring both fro
 - ⚙️ Web Development & Software Development
 - 🛠️ MySQL, Git, GitHub
 - 🚀 Exploring new technologies and tools
-
----
 
 ## A Bit About Me
 
@@ -26,7 +22,5 @@ I work with different programming languages and technologies, exploring both fro
 - 🧩 Enjoy building creative and practical projects
 - 📚 Always learning something new
 - 🎯 Focused on growing my skills and knowledge
-
----
 
 **Code. Learn. Create. Repeat.** ✨
