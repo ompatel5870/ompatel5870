@@ -1,13 +1,13 @@
 Hey there 👋
 #
-I'm **Om Patel**, a BSc IT student at **Parul University, Gujarat, India** 🇮🇳
+#I'm **Om Patel**, a BSc IT student at **Parul University, Gujarat, India** 🇮🇳
 
 I'm interested in technology, software development, and exploring new ideas. I enjoy learning new things, building projects, and turning ideas into something useful.
 
 I work with different programming languages and technologies, exploring both frontend and backend development.
 
 ## 
-Tools & Tech
+##Tools & Tech
 
 - 💻 C++, Java, Python, PHP
 - 🌐 HTML, CSS, JavaScript
@@ -16,7 +16,7 @@ Tools & Tech
 - 🚀 Exploring new technologies and tools
 
 ## 
-A Bit About Me
+##A Bit About Me
 
 - 🎓 BSc IT Student at Parul University
 - 🌍 Based in Gujarat, India
